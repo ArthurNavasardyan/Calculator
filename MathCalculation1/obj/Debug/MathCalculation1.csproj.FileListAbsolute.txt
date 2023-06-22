@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\MathCalculation1\MathCalculation1\obj\Debug\MathCalculation1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MathCalculation1\MathCalculation1\obj\Debug\MathCalculation1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\MathCalculation1\MathCalculation1\obj\Debug\MathCalculation1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MathCalculation1\MathCalculation1\bin\Debug\MathCalculation1.exe.config
+C:\Users\User\source\repos\MathCalculation1\MathCalculation1\bin\Debug\MathCalculation1.exe
+C:\Users\User\source\repos\MathCalculation1\MathCalculation1\bin\Debug\MathCalculation1.pdb
+C:\Users\User\source\repos\MathCalculation1\MathCalculation1\obj\Debug\MathCalculation1.exe
+C:\Users\User\source\repos\MathCalculation1\MathCalculation1\obj\Debug\MathCalculation1.pdb
